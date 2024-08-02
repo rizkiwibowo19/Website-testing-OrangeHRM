@@ -1,0 +1,7 @@
+TestType,Username,password,ExpectedMessage,Description
+N,none,admin123,Required,
+P,Admin,admin123,,Login Success
+N,Admin123,admin123,Invalid credentials,Invalid Username
+N,Admin,admin,Invalid credentials,Invalid Password
+P,ADMIN,admin123,,Sensitivity Username
+N,Admin,Admin123,Invalid credentials,Sensitivity Password
