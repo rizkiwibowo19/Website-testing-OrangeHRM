@@ -14,13 +14,12 @@ regression testing.
      -  Login with a case-sensitive username
      -  Login with a case-sensitive password.
   
-  2. avigation Testing:
+  2. Navigation Testing:
      This tests whether the navigation through each menu on the admin page functions as expected.
      
   3. CRUD Testing:
      This tests whether the Create, Read, Update, and Delete functionalities on the employee menu work correctly.
      
 2. Regression Testing:
-   In this phase, the three test cases mentioned above login and logout, navigation, and CRUD testing—are re-executed to ensure that no regressions or functional
-   issues have been introduced following any changes or updates to the application.
+   Re-execute the test cases from the functional testing phase login and logout, navigation, and CRUD testing—to ensure that no regressions or functional issues have been       introduced following any changes or updates to the application.
 
