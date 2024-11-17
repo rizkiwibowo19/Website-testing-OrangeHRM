@@ -1,6 +1,5 @@
-This project is an example of automation testing on the OrangeHRM website using Katalon Studio. The project encompasses two testing phases: functional testing.
+This project is an example of implementing automated testing on the OrangeHRM website using Katalon Studio. The testing in this project is focused on a single phase: functional testing.
 
-1. Functional Testing:
   1. Login and Logout Testing with Data-Driven Testing (DDT):
      This tests the functionality and security of the login feature to ensure it meets expected standards. The scenarios tested include:
      Successful login
