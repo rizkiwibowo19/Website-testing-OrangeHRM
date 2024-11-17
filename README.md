@@ -1,5 +1,4 @@
-This project is an example of automation testing on the OrangeHRM website using Katalon Studio. The project encompasses two testing phases: functional testing and 
-regression testing. 
+This project is an example of automation testing on the OrangeHRM website using Katalon Studio. The project encompasses two testing phases: functional testing.
 
 1. Functional Testing:
   1. Login and Logout Testing with Data-Driven Testing (DDT):
@@ -20,6 +19,4 @@ regression testing.
   3. CRUD Testing:
      This tests whether the Create, Read, Update, and Delete functionalities on the employee menu work correctly.
      
-2. Regression Testing:
-   Re-execute the test cases from the functional testing phase login and logout, navigation, and CRUD testing—to ensure that no regressions or functional issues have been       introduced following any changes or updates to the application.
 
